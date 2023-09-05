@@ -1,7 +1,8 @@
 # Olá! Eu sou a Manuella Nascimento
 
 - 🌱 Atualmente estudo Ciência da Computação (Bacharel)
-- 🌱 Formada em Técnico em Informática
+- 🌱 Formada em Técnico em Informática -
+<a href="https://github.com/vinicioslop/buyge-frontend">TCC ETEC</a>
 
 </br>
 
@@ -75,4 +76,15 @@
 <div>
   <h4>Cloud</h4>
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</div>
+
+<br/>
+
+<div>
+  <h2>Contato e Redes Sociais</h2>
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
