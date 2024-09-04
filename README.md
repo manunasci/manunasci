@@ -7,8 +7,8 @@
 </br>
 
 <div>
-  <img height="180em" src="https://githubcard.vinicioslop.com.br/api?username=manunasci&show_icons=true&&include_all_commits=true&theme=omni"/>
-  <img height="180em" src="https://githubcard.vinicioslop.com.br/api/top-langs/?username=manunasci&layout=compact&theme=omni"/
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manunasci&layyout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/?username=manunasci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/
 </div>
 
 </br>
