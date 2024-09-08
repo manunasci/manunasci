@@ -1,7 +1,8 @@
 # Olá! Eu sou a Manuella Nascimento
 
 - 🌱 Atualmente estudo Ciência da Computação (Bacharel)
-- 🌱 Formada em Técnico em Informática -
+- 🌱 Atualmente estudo Defesa Cibernetica (Tecnologo)
+- 🌱 Formada em Técnico em Informática 
 <a href="https://github.com/vinicioslop/buyge-frontend">TCC ETEC</a>
 
 </br>
