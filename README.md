@@ -1,91 +1,70 @@
-# Olá! Eu sou a Manuella Nascimento
+# 👋🏽 Olá! Eu sou a Manuella
 
-- 🌱 Atualmente estudo Ciência da Computação (Bacharel)
-- 🌱 Atualmente estudo Defesa Cibernetica (Tecnologo)
-- 🌱 Formada em Técnico em Informática 
-<a href="https://github.com/vinicioslop/buyge-frontend">TCC ETEC</a>
+🎓 Estudante de Ciências da Computação pela Universidade Católica de Santos
 
-</br>
+💻 Técnica em Informática pela ETEC Adolpho Berezin
 
-<div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manunasci&layyout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=manunasci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/
+🌟 Embaixadora Universitária na **DIO Campus Expert**
+
+🎓 Membro da **Comunidade Alumni DIO Campus Expert**
+
+🛡️ Explorando fundamentos e boas práticas em **Cyber Security**
+
+💡Interesses: .Net, C#, Python, JavaScript, Java, Verilog, SQL, Segurança da Informação 
+
+## 🛠️ Tecnologias que Utilizo
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,py,js,mysql,git,github,java&perline=4)](https://skillicons.dev)
+
+## 📌 Projetos em Destaque
+
+🎮 Máquina de Estado Pac-Man| Simulação de FSM em Verilog (fantasma - perseguindo x assustado) | Verilog, GTWave | [Ver Repositório](https://github.com/manunasci/pac_mac)
+
+⚡ Otimização de Amplificador CMOS | Algoritmo Genético + LTSpice para melhorar desempenho de circuito | Python, PyLTSpice | [Ver Repositório](https://github.com/manunasci/Projeto-IC)
+
+🛒 **BuyGe** - Marketplace Geek | Plataforma web para conectar consumidores e vendedores geek | HTML, CSS, JS, C#, Docker | [Ver Repositório](https://github.com/vinicioslop/buyge-frontend)
+
+## 📌 Minhas Contribuições
+
+<div align="center">
+    <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=manunasci&theme=radical&hipe_border=true"/>
 </div>
 
-</br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[manunasci]/[manunasci]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[manunasci]/[manunasci]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[manunasci]/[manunasci]/output/pacman-contribution-graph.svg">
+</picture>
 
-<div>
-  <h2>Skills</h2>
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+## 💼 Meus Objetivos Atuais
+
+- Evoluir meus estudos nas tecnologias que já tennho um breve conhecimento
+- Contribuir com a comunidade tech como embaixadora DIO
+- Aprofundar meus estudos em **Cyber Security**, com foco inicial em fundamentos, código seguro e segurança ofensiva
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manunasci&layyout=compact&langs_count=7&theme=radical"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=manunasci&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
-  <h4>Sistemas Operacionais</h4>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white"/>
-</div>
+## 📫 Onde me Encontrar
 
-<div>
-  <h4>Office</h4>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-</div>
+<p align="center">
+  <!-- Ícone do Email -->
+  <a href="hola.manuella@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <!-- Ícone do Linkendin -->
+  <a href="https://www.linkedin.com/in/manuella-nascimento-santos" target="_blank"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+  </a>
+</p>
 
-<div>
-  <h4>Design</h4>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
+✨ Obrigada por visitar meu perfil! ✨
 
-<div>
-  <h4>IDE's</h4>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div>
+Sempre aprendendo, compartilhando e evoluindo. Vamos codar juntos? 👩🏽‍💻
 
-<div>
-  <h4>Terminal</h4>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
-</div>
-
-<div>
-  <h4>Front-end</h4>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</div>
-
-<div>
-  <h4>Back-end</h4>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</div>
-
-<div>
-  <h4>Frameworks</h4>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</div>
-
-<div>
-  <h4>Banco de Dados</h4>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
-<div>
-  <h4>Cloud</h4>
-  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</div>
-
-<br/>
-
-<div>
-  <h2>Contato e Redes Sociais</h2>
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
