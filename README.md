@@ -53,7 +53,7 @@
 
 <p align="center">
   <!-- Ícone do Email -->
-  <a href="hola.manuella@gmail.com" target="_blank">
+  <a href="mailto:hola.manuella@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <!-- Ícone do Linkendin -->
