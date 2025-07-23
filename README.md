@@ -14,7 +14,7 @@
 
 ## 🛠️ Tecnologias que Utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,py,js,mysql,git,github,java&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,py,js,mysql,git,github,java,figma&perline=4)](https://skillicons.dev)
 
 ## 📌 Projetos em Destaque
 
