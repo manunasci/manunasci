@@ -18,9 +18,9 @@
 
 ## 📌 Projetos em Destaque
 
-🎮 Máquina de Estado Pac-Man| Simulação de FSM em Verilog (fantasma - perseguindo x assustado) | Verilog, GTWave | [Ver Repositório](https://github.com/manunasci/pac_mac)
+🎮 Máquina de Estado Pac-Man| Simulação de FSM em Verilog (fantasma - perseguindo x assustado) | Verilog, GTWave | [Ver Repositório](https://github.com/manunasci/fsm-pacman-unisantos.git)
 
-⚡ Otimização de Amplificador CMOS | Algoritmo Genético + LTSpice para melhorar desempenho de circuito | Python, PyLTSpice | [Ver Repositório](https://github.com/manunasci/Projeto-IC)
+⚡ Otimização de Amplificador CMOS | Algoritmo Genético + LTSpice para melhorar desempenho de circuito | Python, PyLTSpice | [Ver Repositório](https://github.com/manunasci/otimizacao-cmos-unisantos.git)
 
 🛒 **BuyGe** - Marketplace Geek | Plataforma web para conectar consumidores e vendedores geek | HTML, CSS, JS, C#, Docker | [Ver Repositório](https://github.com/vinicioslop/buyge-frontend)
 
