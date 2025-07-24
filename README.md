@@ -10,7 +10,7 @@
 
 🛡️ Explorando fundamentos e boas práticas em **Cyber Security**
 
-💡Interesses: .Net, C#, Python, JavaScript, Java, Verilog, SQL, Segurança da Informação 
+💡 Interesses: .Net, C#, Python, JavaScript, Java, Verilog, SQL, Segurança da Informação 
 
 ## 🛠️ Tecnologias que Utilizo
 
